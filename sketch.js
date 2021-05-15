@@ -13,7 +13,7 @@ function preload(){
 
 
 function setup(){
-    canvas = createCanvas(730,600);
+    canvas = createCanvas(120,600);
     ground1 = createSprite(80,580,170,30);
     ground1.shapeColor = "red"
     ground2 = createSprite(260,580,170,30);
